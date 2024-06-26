@@ -2,7 +2,7 @@
 The purpose of this project is to computationally determine the approximate density of happy numbers among positive intergral numbers. 
 The python script attached is capable of generating happy numbers infinitely.
 
-The attached data file contains a list of all the happy numbers up to 10 million
+The attached txt file contains a list of all the happy numbers up to 10 million
 The density was computed to be 14.18%. 
 
 
